@@ -7,3 +7,10 @@ example@stanford.edu 123-123-1234
 you can find more description in link below
 
 https://78462f86-a-fa7ed8f8-s-sites.googlegroups.com/a/mohamedaly.info/www/teaching/cmp-462-spring-2013/CMP462%20HW01%20Spamlord.pdf?attachauth=ANoY7cqCqHpBLWz_5kqiKrV9HLHBPFae2VUqU4uj_3kWalRmZN-ejCrr-a8pI7Wab_iRvDkVrw3NvqXpqyWpkrTFgsrmfQFt6_NKd6Ily-abAzExxUvgAqkjbi8dgtcIW1bSrX0yRPqwlQkMTZ78beGE48hxsOgdZyUt9sH5sVgAdkZ9ZkbM5zNNSt8RbZBLh9oJL6hfp1R6WNg5Os3KZxqra1FT7x1NDoANWmedyG6GlqnSruyDPNpLO7IJPNNLj1NaUn-lOZ1o&attredirects=0
+
+Html Format
+
+![snapshot of html](html_im.png)
+
+Solution snapshot
+![snapshot of solution](html_im.png)
