@@ -13,4 +13,4 @@ Html Format
 ![snapshot of html](html_im.png)
 
 Solution snapshot
-![snapshot of solution](html_im.png)
+![snapshot of solution](solution.png)
